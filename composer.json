@@ -16,5 +16,7 @@
             "name": "webkul",
             "email": "support@qloapps.com"
         }
-    ]
+    ],
+    "minimum-stability": "dev", 
+    "prefer-stable": true
 }
